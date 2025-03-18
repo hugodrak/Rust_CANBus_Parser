@@ -1,0 +1,10 @@
+[package]
+name = "rust-canbus-parser"
+version = "0.1.0"
+edition = "2025"
+authors = ["Hugo <hugodrakeskar@gmail.com"]
+license = "MIT"
+description = "A simple library for parsing CAN bus messages in Rust"
+repository = "https://github.com/YourGitHubUsername/rust-canbus-parser"
+
+[dependencies]
